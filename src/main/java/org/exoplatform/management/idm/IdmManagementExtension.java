@@ -20,9 +20,9 @@
  * 02110-1301 USA, or see the FSF site: http://www.fsf.org.
  */
 
-package org.exoplatform.services.organization.idm.management;
+package org.exoplatform.management.idm;
 
-import org.exoplatform.services.organization.idm.management.operations.IdmReadResource;
+import org.exoplatform.management.idm.operations.IdmReadResource;
 import org.gatein.management.api.ComponentRegistration;
 import org.gatein.management.api.ManagedDescription;
 import org.gatein.management.api.ManagedResource;

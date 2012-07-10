@@ -20,7 +20,7 @@
  * 02110-1301 USA, or see the FSF site: http://www.fsf.org.
  */
 
-package org.exoplatform.services.organization.idm.management.operations;
+package org.exoplatform.management.idm.operations;
 
 import java.util.HashSet;
 import java.util.Set;
